@@ -1,1 +1,3 @@
 # Pytorch_img_classification
+
+Entrenamiento de una Red Neuronal Convolucional (CNN) utilizando Pytorch en conjunto con la base de datos CIFAR-10. El punto es comparar el resultado del entrenamiento de un modelo desde cero con respecto al entrenamiento con transferencia de aprendizaje realizado en https://github.com/Rodrigo9721/img_classification_example, donde se entrenó una CNN utilizando los mismos datos, pero con un modelo preentrenado VGG16 para la clasificación de imágenes.
