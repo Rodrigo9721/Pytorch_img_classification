@@ -1,0 +1,7 @@
+# Ignorar los directorios de checkpoints
+checkpoints/
+# Ignorar los datos descargados de CIFAR10
+data/
+# Ignorar los archivos de TensorBoard
+runs/
+
